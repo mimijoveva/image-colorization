@@ -1,0 +1,4 @@
+# Ovoj fajl gi sodrzi potrebnite Python biblioteki za uspesno izvrshuvanje na proektot:
+
+opencv-contrib-python==4.9.0.80
+numpy>=1.23.0

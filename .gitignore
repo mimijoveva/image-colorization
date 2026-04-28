@@ -1,0 +1,65 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# -------------------------
+# Jupyter / notebooks
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Large model files (IMPORTANT)
+# -------------------------
+models/
+Models/
+*.caffemodel
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.bin
+*.pb
+
+# -------------------------
+# Datasets / images (optional - ако се големи)
+# -------------------------
+datasets/
+data/
+*.zip
+*.tar
+*.gz
+
+# -------------------------
+# Build / output
+# -------------------------
+dist/
+build/
+*.log
+
+# -------------------------
+# IDE / Editors
+# -------------------------
+.idea/
+.vscode/
+*.iml
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
