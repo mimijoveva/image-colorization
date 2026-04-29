@@ -38,6 +38,15 @@ The deep learning approach produces more realistic and visually appealing result
 
 ---
 
+⚠️ Model Files
+
+Large model files are not included in this repository.
+
+Download the required model from:
+https://github.com/richzhang/colorization/releases
+
+After downloading, place the .caffemodel file inside the models/ folder.
+
 ## 👩‍💻 Author
 
 Mimi Joveva
